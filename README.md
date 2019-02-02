@@ -1,2 +1,2 @@
 # spark-coursera
-Spark Coursera Tests
+It contains source code regarding to the Spark course from Coursera
